@@ -12,10 +12,10 @@ At the end of the pipeline, we will deliver a model capable of classifying new c
 
 ## 🚀 Starting
 
-No link abaixo você pode obter uma cópia do projeto:
-* [Cópia do Projeto](https://github.com/OtnielGomes/My_Learning_With_Pyspark-Regression/archive/refs/heads/main.zip)
+At the link below you can obtain a copy of the project:
+* [copy of the project](https://github.com/OtnielGomes/My_learning_Spark_Classifier/archive/refs/heads/main.zip)
 
-## 🛠️ Construído com:
+## 🛠️ Built with:
 
 * [Anaconda-Navigator](https://www.anaconda.com/)
 * [Jupyter NoteBook](https://jupyter.org/install)
@@ -30,7 +30,7 @@ No link abaixo você pode obter uma cópia do projeto:
 * PySpark.SQL
 * PySpark.ML
 
-* ## ⚙️ Rodando o codigo:
+* ## ⚙️ Running the code:
 
 ### Comece pelo Notebook:
-My_Learnig_With_Spark-Regression
+[My_Learnig_With_Spark-Regression](https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb)https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb
