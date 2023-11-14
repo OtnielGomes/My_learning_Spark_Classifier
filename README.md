@@ -30,7 +30,7 @@ At the link below you can obtain a copy of the project:
 * PySpark.SQL
 * PySpark.ML
 
-* ## ⚙️ Running the code:
+## ⚙️ Running the code:
 
-### Comece pelo Notebook:
-[My_Learnig_With_Spark-Regression](https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb)https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb
+### Start with the Notebook:
+[My_Learning_With_PySpark-Classification](https://github.com/OtnielGomes/My_learning_Spark_Classifier/blob/main/My_Learning_With_PySpark-Classification.ipynb)
